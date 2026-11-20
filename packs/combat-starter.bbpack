@@ -1,0 +1,17 @@
+{
+  "format": "bbpack",
+  "schema": 1,
+  "kind": "template",
+  "name": "Advanced Combat starter",
+  "author": "Johno",
+  "version": "1.0.0",
+  "description": "A starter template exported from the Advanced Combat preset. Combo chains live on an ActorComponent.",
+  "created": "2026-11-20T05:58:27.141Z",
+  "content": {
+    "template": {
+      "id": "combat",
+      "title": "Advanced Combat System",
+      "summary": "Combo chains, directional attacks, and hitstop on an ActorComponent."
+    }
+  }
+}

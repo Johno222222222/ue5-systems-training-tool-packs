@@ -1,0 +1,17 @@
+{
+  "packs": [
+    {
+      "id": "combat-starter",
+      "name": "Advanced Combat starter",
+      "title": "Advanced Combat starter",
+      "description": "A starter template exported from the Advanced Combat preset. Combo chains live on an ActorComponent.",
+      "author": "Johno",
+      "version": "1.0.0",
+      "tags": [
+        "combat",
+        "starter"
+      ],
+      "file": "combat-starter.bbpack"
+    }
+  ]
+}
